@@ -1,36 +1,41 @@
-Friday January 5, 1900
+<div class="diary-pages">
+<div id="1900-01-05">
+<h2><span>January</span><span>&nbsp;</span><span>Friday 5</span><span>(5-360)</span><span>1900</span></h2>
 
-Sweep day. I read "At the Camerons"
-in the "Harper's Young People" when
-mamma was sweeping. We had
-a beggar in afternoon asking for a
-few cents as he had a long way
-to go. Rats! Went over to Lee's
-in afternoon after eggs. Took a
-"Young Ladies Journal" Mrs Pay lent
-me. Her kitty has a sore
-tail. Mrs Malcolmson came after
-eggs when I was there. She got
-large sum of 2. Had some candy
-at night.
+<p>Sweep day. I read &quot;<a href="/s/ital-iasc-2q90/page/literature#Camerons" onmouseover="showPreview(event)">At the Camerons</a>&quot;<br />
+in the &quot;<a>Harper&#39;s Young People</a>&quot; when<br />
+mamma was sweeping. We had<br />
+a beggar in afternoon asking for a<br />
+few cents as he had a long way<br />
+to go. <u>Rats</u>! Went over to <a href="/s/ital-iasc-2q90/page/locations#Lees" onmouseover="showPreview(event)">Lee&#39;s</a><br />
+in afternoon after eggs. Took a<br />
+&quot;Young Ladies Journal&quot; Mrs Pay lent<br />
+me. Her kitty has a sore<br />
+tail. Mrs Malcolmson came after<br />
+eggs when I was there. She got<br />
+large sum of 2. Had some candy<br />
+at night.</p>
+</div>
 
+<div id="1900-01-06">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Saturday 6</span><span>(6-359)</span><span>&nbsp;</span></h2>
 
-Saturday January 6  
-
-Took my music lesson. Mr Read
-had not had his breakfast when
-I got there so Mrs Campbell
-showed me some of Robert
-Campbell's sketches. Mr Read
-just had 2 new songs he
-designed the cover himself for
-them. Took the 6th Etude of
-Czerny Op 740. Went to Eckhardt's &
-got my Mathew's History of Music
-& a scribbling pad. Mrs Trusty
-was here ironing. Mamma & I
-went uptown in the afternoon.
-She got a very pretty chrysanthemum
-centerpiece at Miss Anderson's Papa got
-5 rabbits. Have Deceptive Cadences
-in Harmony for next week.
+<p>Took my music lesson. <a href="/s/ital-iasc-2q90/page/communitymembers#ReadAngelo" onmouseover="showPreview(event)">Mr Read</a><br />
+had not had his breakfast when<br />
+I got there so <a href="/s/ital-iasc-2q90/page/communitymembers#CampbellMrs" onmouseover="showPreview(event)">Mrs Campbell</a><br />
+showed me some of <a href="/s/ital-iasc-2q90/page/communitymembers#CampbellRobert" onmouseover="showPreview(event)">Robert<br />
+Campbell&#39;s</a> sketches. Mr Read<br />
+just had 2 new songs he<br />
+designed the cover himself for<br />
+them. Took the <a href="/s/ital-iasc-2q90/page/music#CzernyCarl" onmouseover="showPreview(event)">6th Etude of<br />
+Czerny Op 740</a>. Went to <a href="/s/ital-iasc-2q90/page/locations#Eckhardts" onmouseover="showPreview(event)">Eckhardt&#39;s</a> &amp;<br />
+got my <a>Mathew&#39;s History of Music</a><br />
+&amp; a scribbling pad. <a href="/s/ital-iasc-2q90/page/locations#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a><br />
+was here ironing. Mamma &amp; I<br />
+went uptown in the afternoon.<br />
+She got a very pretty chrysanthemum<br />
+centerpiece at <a href="/s/ital-iasc-2q90/page/locations#MissesAnderson" onmouseover="showPreview(event)">Miss Anderson&#39;s</a> Papa got<br />
+5 rabbits. Have Deceptive Cadences<br />
+in Harmony for next week.</p>
+</div>
+</div>
