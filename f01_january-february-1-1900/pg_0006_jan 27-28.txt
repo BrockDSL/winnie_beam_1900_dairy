@@ -3,7 +3,7 @@
 <h2><span>&nbsp;</span><span>&nbsp;</span><span>Sunday 27<sup>th</sup></span><span>&nbsp;</span><span>1901</span></h2>
 
 <p>Went to <a href="/s/Diary-of-Winnie-Beam/page/locations#StThomas" onmouseover="showPreview(event)">church</a> this morning<br />
-<a href="/s/Diary-of-Winnie-Beam/page/communitymembers#Perry" onmouseover="showPreview(event)">Mr Perry</a> was out He has had the<br />
+<a href="/s/Diary-of-Winnie-Beam/page/communitymembers#Perry" onmouseover="showPreview(event)">Mr Perry</a> was out. He has had the<br />
 grippe<small><sup>1</sup></small>. He spoke on the Queen<br />
 I Cor. 15-26. Then went to<br />
 Sunday School. <a href="/s/Diary-of-Winnie-Beam/page/communitymembers#Reyes" onmouseover="showPreview(event)">Miss Reyes</a><br />
@@ -28,7 +28,7 @@ memorial service in the<br />
 <a href="/s/Diary-of-Winnie-Beam/page/locations#GrandOperaHouse" onmouseover="showPreview(event)">Opera House</a> Saturday afternoon<br />
 There are six deaths in<br />
 the paper. <a href="/s/Diary-of-Winnie-Beam/page/communitymembers#SmithDr" onmouseover="showPreview(event)">Dr. Smith</a> is<br />
-very sick<br />
+very sick<br />.
 <br />
 ------<br />
 <small>1. Gastric or intestinal pain.</small></p>
