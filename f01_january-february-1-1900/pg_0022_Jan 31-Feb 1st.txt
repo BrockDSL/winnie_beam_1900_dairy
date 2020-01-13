@@ -1,33 +1,38 @@
-January Wednesday 31 1900
+<div class="diary-pages">
+<div id="1900-01-31">
+<h2><span>January</span><span>&nbsp;</span><span>Wednesday 31</span><span>(31-334)</span><span>1900</span></h2>
 
-Mrs Trusty is here. Did not go to
-school but went to library
-and got a book "The Guinea
-Stamp" by Annie S Swan.
-Mamma went to church, and
-they got $27. The Ladies Aid is doing
-all right. Mamma went to a
-musicale held at Mrs Larkin's
-for Red Cross fund. Winnie
-and Mattie sang, Louisa Groves
-& Mrs Marquis played and Mr
-Garry. Papa went to lodge and
-the Citizens House supper.
+<p><a href="/s/ital-iasc-2q90/page/communitymembers/#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a> is here. Did not go to<br />
+<a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> but went to <a href="/s/ital-iasc-2q90/page/locations#library" onmouseover="showPreview(event)">library</a><br />
+and got a book <a href="/s/ital-iasc-2q90/page/literature/#SwanAnnie" onmouseover="showPreview(event)">&quot;The Guinea<br />
+Stamp&quot; by Annie S Swan</a>.<br />
+Mamma went to <a href="/s/Diary-of-Winnie-Beam/page/locations/#StThomas" onmouseover="showPreview(event)">church</a>, and<br />
+they got $27. The Ladies Aid is doing<br />
+all right. Mamma went to a<br />
+musicale held at <a href="/s/ital-iasc-2q90/page/communitymembers/#Larkin" onmouseover="showPreview(event)">Mrs Larkin&#39;s</a><br />
+for Red Cross fund. <a href="/s/ital-iasc-2q90/page/communitymembers#CarmanWinnie" onmouseover="showPreview(event)">Winnie</a><br />
+and <a href="/s/ital-iasc-2q90/page/communitymembers/#CoyMattie" onmouseover="showPreview(event)">Mattie</a> sang, <a href="/s/ital-iasc-2q90/page/communitymembers/#GrovesLouisaonmouseover=" showpreview="">Louisa Groves</a><br />
+&amp; <a href="/s/Diary-of-Winnie-Beam/page/communitymembers/#Marquismaud" onmouseover="showPreview(event)">Mrs Marquis</a> played and <a>Mr<br />
+Garry</a>. Papa went to <a href="/s/ital-iasc-2q90/page/locations#Masonic" onmouseover="showPreview(event)">lodge</a> and<br />
+the <a href="/s/ital-iasc-2q90/page/locations#CitizensHouse" onmouseover="showPreview(event)">Citizens House</a> supper.</p>
+</div>
 
+<div id="1900-02-01">
+<h2><span>February</span><span>&nbsp;</span><span>Thursday 1</span><span>(32-333)</span><span>&nbsp;</span></h2>
 
-February Thursday 1(32-333) 
-
-Went to school in afternoon
-Annie Gardiner was there. She
-has not been there for a long
-while, She came to Queen street
-with me. I finished "The Guinea
-Stamp" last night I am a very
-swift reader. Mamma went
-out to call on Mrs Klotz. She
-went uptown and bought me
-a pair of gray kid gloves
-for to-morrow afternoon.
-Did my German for to-morrow
-at night. Have 30 and 31 pages of
-"Das Kalte Herz".
+<p>Went to school in afternoon<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#GardinerAnnie" onmouseover="showPreview(event)">Annie Gardiner</a> was there. She<br />
+has not been there for a long<br />
+while, She came to Queen street<br />
+with me. I finished &quot;<a href="/s/ital-iasc-2q90/page/literature/#SwanAnnie" onmouseover="showPreview(event)">The Guinea<br />
+Stamp</a>&quot; last night I am a very<br />
+swift reader. Mamma went<br />
+out to call on <a href="/s/ital-iasc-2q90/page/communitymembers/#KlotzMarie" onmouseover="showPreview(event)">Mrs Klotz</a>. She<br />
+went uptown and bought me<br />
+a pair of gray kid gloves<br />
+for to-morrow afternoon.<br />
+Did my German for to-morrow<br />
+at night. Have 30 and 31 pages of<br />
+&quot;<a href="/s/ital-iasc-2q90/page/literature/#Hauf" onmouseover="showPreview(event)">Das Kalte Herz</a>&quot;.</p>
+</div>
+</div>
