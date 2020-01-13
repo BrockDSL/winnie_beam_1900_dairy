@@ -1,32 +1,37 @@
-January Sunday 21 1900 
+<div class="diary-pages">
+<div id="1900-01-21">
+<h2><span>January</span><span>&nbsp;</span><span>Sunday 21</span><span>(21-344)</span><span>1900</span></h2>
 
-Went to church in morning. 
-Sermon was Phil. 3 & the 1st & second 
-verses. Mrs Louis Meritt sat in 
-our seat as theirs was filled. 
-I finished the "Choir Invisible"
-this afternoon before Sunday
-School. Went to Sunday School 
-Mrs Haun gave me a "Golden Text 
-Book" for year 1900. Came home 
-with Lizzie. Mr O'Loughlins 
-mother is not expected to live.
-Did not go to church at 
-night.
+<p>Went to <a href="/s/ital-iasc-2q90/page/locations/#StThomas" onmouseover="showPreview(event)">church</a> in morning.&nbsp;<br />
+Sermon was Phil. 3 &amp; the 1<small><sup>st</sup></small> &amp; second&nbsp;<br />
+verses. <a href="/s/ital-iasc-2q90/page/communitymembers/#MerrittMrs" onmouseover="showPreview(event)">Mrs Louis Meritt</a> sat in&nbsp;<br />
+our seat as theirs was filled.&nbsp;<br />
+I finished the &quot;<a href="/s/ital-iasc-2q90/page/literature/#AllenJames" onmouseover="showPreview(event)">Choir Invisible</a>&quot;<br />
+this afternoon before Sunday<br />
+School. Went to Sunday School&nbsp;<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#Haun" onmouseover="showPreview(event)">Mrs Haun</a> gave me a &quot;Golden Text&nbsp;<br />
+Book&quot; for year 1900. Came home&nbsp;<br />
+with <a href="/s/ital-iasc-2q90/page/communitymembers/#PriorMiss" onmouseover="showPreview(event)">Lizzie</a>. <a href="/s/ital-iasc-2q90/page/communitymembers/#Oloughlin" onmouseover="showPreview(event)">Mr O&#39;Loughlins&nbsp;</a><br />
+mother is not expected to live.<br />
+Did not go to church at&nbsp;<br />
+night.</p>
+</div>
 
+<div id="1900-01-22">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Monday 22</span><span>(22-343)</span><span>&nbsp;</span></h2>
 
-Monday January 22
-
-Did not got to school in the morning 
-as I took "Celery King". Mamma went 
-out collecting for ladies aid in the 
-afternoon, and uptown after some 
-silk for doily of chrysanthemums. I
-went uptown after some birdseed 
-and cotton. Went to the office Mr
-Bunting and Mrs McGhie was in there 
-Met Helen and she said she was 
-coming over. The entertainmnet in 
-Knox Church was repeated to-night.
-Mr O'Loughlin's mother died 
-yesterday.
+<p>Did not got to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in the morning&nbsp;<br />
+as I took &quot;Celery King&quot;. Mamma went&nbsp;<br />
+out collecting for ladies aid in the&nbsp;<br />
+afternoon, and uptown after some&nbsp;<br />
+silk for doily of chrysanthemums. I<br />
+went uptown after some birdseed&nbsp;<br />
+and cotton. Went to the office <a href="/s/ital-iasc-2q90/page/communitymembers/#BuntingMr" onmouseover="showPreview(event)"> Mr<br />
+Bunting</a> and Mrs McGhie was in there&nbsp;<br />
+Met Helen and she said she was&nbsp;<br />
+coming over. The entertainmnet in&nbsp;<br />
+<a href="/s/ital-iasc-2q90/page/locations/#KnoxChurch" onmouseover="showPreview(event)">Knox Church</a> was repeated to-night.<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#OLoughlin" onmouseover="showPreview(event)">Mr O&#39;Loughlin&#39;s</a> mother died&nbsp;<br />
+yesterday.</p>
+</div>
+</div>
