@@ -7,7 +7,7 @@ clear&nbsp;&amp; cold out. <a href="/s/Diary-of-Winnie-Beam/page/music/#Verdi" o
 Died last week on Friday or Sat.<br />
 The <a href="http://bmd.stcatharines.library.on.ca/en/3502633/image/3525810">Musical Circle</a> lecture is<br />
 postponed. I went up to<br />
-the <a href="/s/Diary-of-Winnie-Beam/page/locations/#library onmouseover=" showpreview="">library</a> in the afternoon.<br />
+the <a href="/s/Diary-of-Winnie-Beam/page/locations#library" onmouseover="showpreview(event)">library</a> in the afternoon.<br />
 Got one of <a href="/s/Diary-of-Winnie-Beam/page/literature/#AldenIsabella" onmouseover="showPreview(event)">Pansey&#39;s</a> books<br />
 <a href="/s/Diary-of-Winnie-Beam/page/literature/#AldenIsabella" onmouseover="showPreview(event)">Miss Priscilla Hunter</a>&quot;. Papa<br />
 has the gripes<small><sup>1</sup></small> ate to much candy<br />
