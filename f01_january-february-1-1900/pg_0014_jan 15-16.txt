@@ -1,34 +1,39 @@
-January Monday 15 1900 
+<div class="diary-pages">
+<div id="1900-01-15">
+<h2><span>January</span><span>&nbsp;</span><span>Monday 15</span><span>(15-350)</span><span>1900</span></h2>
 
-Went to school in morning,
-but had my walk for
-nothing for they had the
-weekly examinations. Miss
-Fowler on Queen St. died
-yesterday in the hospital.
-Papa got five books at
-night. Premaums [?] with the
-"Hall Hour" Four by A. Conan
-Doyle and one by Robert Louis
-Stevenson. It rained very
-hard at night.
+<p>Went to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in morning,<br />
+but had my walk for<br />
+nothing for they had the<br />
+weekly examinations. <a href="/s/ital-iasc-2q90/page/communitymembers/#Fowler" onmouseover="showPreview(event)">Miss<br />
+Fowler</a> on Queen St. died<br />
+yesterday in the hospital.<br />
+Papa got five books at<br />
+night. Premaums [?] with the<br />
+&quot;Hall Hour&quot; Four by <a href="/s/ital-iasc-2q90/page/literature#DoyleArthur" onmouseover="showPreview(event)">A. Conan<br />
+Doyle</a> and one by <a href="/s/ital-iasc-2q90/page/literature#StevensonRobert" onmouseover="showPreview(event)">Robert Louis<br />
+Stevenson</a>. It rained very<br />
+hard at night.</p>
+</div>
 
+<div id="1900-01-16">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Tuesday 16</span><span>(16-349)</span><span>&nbsp;</span></h2>
 
-Tuesday January 16
-
-Went to school in afternoon.
-Papa went to Hamilton to-night
-to the Hamilton Gun Club shoot.
-Called in Dwyer's in afternoon to
-see if she would go with
-mamma & I to Knox Church
-to-night. Mamma & I called
-for her at night. They had an
-entertainment called "Jerusha
-Dow's Family Album. It
-was fine. Mrs McClive was
-the grandmother and explained
-each picture. Mrs McGhie
-came home with us. Lost
-my little black pin from my
-skirt.
+<p>Went to school in afternoon.<br />
+Papa went to Hamilton to-night<br />
+to the <a href="/s/ital-iasc-2q90/page/locations#HamiltonGunClub" onmouseover="showPreview(event)">Hamilton Gun Club</a> shoot.<br />
+Called in <a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerAnna" onmouseover="showPreview(event)">Dwyer&#39;s</a> in afternoon to<br />
+see if she would go with<br />
+mamma &amp; I to <a href="/s/ital-iasc-2q90/page/locations#KnoxChurch" onmouseover="showPreview(event)">Knox Church</a><br />
+to-night. Mamma &amp; I called<br />
+for her at night. They had an<br />
+entertainment called &quot;<a href="/s/ital-iasc-2q90/page/literature#ParsonL" onmouseover="showPreview(event)">Jerusha<br />
+Dow&#39;s Family Album</a>. It<br />
+was fine. <a href="/s/ital-iasc-2q90/page/communitymembers/#McCliveBella" onmouseover="showPreview(event)">Mrs McClive</a> was<br />
+the grandmother and explained<br />
+each picture. Mrs McGhie<br />
+came home with us. Lost<br />
+my little black pin from my<br />
+skirt.</p>
+</div>
+</div>
