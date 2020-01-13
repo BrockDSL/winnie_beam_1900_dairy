@@ -20,10 +20,10 @@ was knocked down.</p>
 
 <p>Did not go to school to-day<br />
 Mamma has been lengthening<br />
-my Heather mixture skirt &amp; I wore<br />
+my Heather mixture<sup>1</sup> skirt &amp; I wore<br />
 it to-day. Went to Dwyer&#39;s after<br />
 <a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerBeatrice" onmouseover="showPreview(event)">Beatrice</a> to go with me to try<br />
-the piano in Wherry&#39;s Hall, but<br />
+the piano in <a href="/s/ital-iasc-2q90/page/locations/#WherryHall" onmouseover="showPreview(event)">Wherry&#39;s Hall</a>, but<br />
 she &amp; <a href="/s/ital-iasc-2q90/page/communitymembers/#HendersonMay" onmouseover="showPreview(event)">May Henderson</a> went out to<br />
 <a href="/s/ital-iasc-2q90/page/communitymembers/#BarnesNellie" onmouseover="showPreview(event)">Nellie Barnes</a> as she has been sick.<br />
 Went &amp; got <a href="/s/ital-iasc-2q90/page/communitymembers/#Nettie" onmouseover="showPreview(event)">Nettie</a> to go with<br />
@@ -35,5 +35,7 @@ calendar from the <a href="/s/ital-iasc-2q90/page/locations#PetersCartridgeCo" o
 Cartridge Co.</a> &amp; to-day at noon<br />
 <a href="/s/ital-iasc-2q90/page/communitymembers/#WalkerJames" onmouseover="showPreview(event)">J.N . Walker</a> the popular druggist was<br />
 married to-day to Miss Lake</p>
+<p>------<br />
+<small>1. A fabric composed of different colours of yarn.</small></p>
 </div>
 </div>
