@@ -1,34 +1,39 @@
-January Friday 19 1900 
+<div class="diary-pages">
+<div id="1900-01-19">
+<h2><span>January</span><span>&nbsp;</span><span>Friday 19</span><span>(19-346)</span><span>1900</span></h2>
 
-Was at school in the morning
-Sat with Leta. Papa came
-home from Hamilton last
-night. Practiced in afternoon.
-Mamma made a very pretty
-cushion for parlor. Tapestry front
-and brown back. Papa brought
-us some candy at night. He
-bought three tickets for the
-Redpath Concert Co. that is to be
-here on Tuesday. Mr Read & Mr
-Macgregor are bringing them here.
-Wrote a letter to Aunt Allie
+<p>Was at <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in the morning<br />
+Sat with <a href="/s/ital-iasc-2q90/page/communitymembers/#DudleyLeta" onmouseover="showPreview(event)">Leta</a>. Papa came<br />
+home from Hamilton last<br />
+night. Practiced in afternoon.<br />
+Mamma made a very pretty<br />
+cushion for parlor. Tapestry front<br />
+and brown back. Papa brought<br />
+us some candy at night. He<br />
+bought three tickets for the<br />
+<a href="http://bmd.stcatharines.library.on.ca/en/486/Exhibit/99993209">Redpath Concert Co.</a> that is to be<br />
+here on Tuesday. <a href="/s/ital-iasc-2q90/page/communitymembers#ReadAngelo" onmouseover="showPreview(event)">Mr Read</a> &amp; <a href="/s/ital-iasc-2q90/page/communitymembers/#McGregorColin" onmouseover="showPreview(event)">Mr<br />
+Macgregor</a> [sic] are bringing them here.<br />
+Wrote a letter to <a href="/s/ital-iasc-2q90/page/communitymembers/#AllieAunt" onmouseover="showPreview(event)">Aunt Allie</a></p>
+</div>
 
+<div id="1900-01-20">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Saturday 20</span><span>(20-345)</span><span>&nbsp;</span></h2>
 
-Saturday January 20
-
-Took my music lesson. Took
-the 7th Etude (as I did not practice
-it for this week as I had too
-many reviews) and Mendelssohn's
-"Frühlingslied". It was raining
-when I went, and has been
-raining all day. Mrs Trusty
-came to iron through all the
-wet. Mamma is making
-another cushion. It is of
-peacock blue sateen covered
-with Battenburg. In my
-Harmony I had to work out
-from exercises in Open instead
-of Close Position.
+<p>Took my music lesson. Took<br />
+the 7<small><sup>th</sup></small> Etude (as I did not practice<br />
+it for this week as I had too<br />
+many reviews) and <a href="/s/ital-iasc-2q90/page/music/#Mendelssohn" onmouseover="showPreview(event)">Mendelssohn&#39;s<br />
+&quot;Fr&uuml;hlingslied&quot;</a>. It was raining<br />
+when I went, and has been<br />
+raining all day. <a href="/s/ital-iasc-2q90/page/communitymembers#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a><br />
+came to iron through all the<br />
+wet. Mamma is making<br />
+another cushion. It is of<br />
+peacock blue sateen covered<br />
+with Battenburg. In my<br />
+Harmony I had to work out<br />
+from exercises in Open instead<br />
+of Close Position.</p>
+</div>
+</div>
