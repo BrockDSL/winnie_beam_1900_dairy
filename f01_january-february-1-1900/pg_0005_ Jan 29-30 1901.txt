@@ -1,35 +1,41 @@
-W. M. Beam Jan 4th 1900 
+<div class="diary-pages writein">
+<div id="1901-01-29">
+<h2 class="writein">W. M. Beam Jan 4<sup>th</sup> 1901</h2>
 
-Tuesday January 29th 1901
-clear & cold out. Verdi is dead.
-Died last week on Friday or Sat.
-The Musical Circle lecture is
-postponed. I went up to
-the library in the afternoon.
-Got one of Pansey's books
-Miss Priscilla Hunter". Papa
-has the gripes1 ate to much candy
-Mrs Marquis came & told
-us the meeting was postponed
-until Feb 12th
+<p>Tuesday January 29<small><sup>th</sup></small> 1901<br />
+clear&nbsp;&amp; cold out. <a href="/s/Diary-of-Winnie-Beam/page/music/#Verdi" onmouseover="showPreview(event)">Verdi</a> is dead.<br />
+Died last week on Friday or Sat.<br />
+The <a href="http://bmd.stcatharines.library.on.ca/en/3502633/image/3525810">Musical Circle</a> lecture is<br />
+postponed. I went up to<br />
+the <a href="/s/Diary-of-Winnie-Beam/page/locations/#library onmouseover=" showpreview="">library</a> in the afternoon.<br />
+Got one of <a href="/s/Diary-of-Winnie-Beam/page/literature/#AldenIsabella" onmouseover="showPreview(event)">Pansey&#39;s</a> books<br />
+<a href="/s/Diary-of-Winnie-Beam/page/literature/#AldenIsabella" onmouseover="showPreview(event)">Miss Priscilla Hunter</a>&quot;. Papa<br />
+has the gripes<small><sup>1</sup></small> ate to much candy<br />
+<a>Mrs Marquis</a> came &amp; told<br />
+us the meeting was postponed<br />
+until Feb 12<small><sup>th</sup></small></p>
+</div>
 
+<div id="1901-01-30">
+<h2>&nbsp;</h2>
 
-Wednesday Jan 30th 1901.
-
-Mrs Trusty is here to-day.
-Mamma had to go to the
-church & to Mrs Sullivan's
-She got some very pretty
-samples of waist goods. I am
-going to get one with pieces like
-honiton braid running through
-it. Ella was in. Poor Tommy
-is very sick with pneumonia.
-They have a debate to-night
-in the church between a
-boy & girl. Last night our
-Society debated against Y.M.C.A
-in their rooms.
-
-------
-1. gastric or intestinal pain.
+<p>Wednesday Jan 30<small><sup>th</sup></small> 1901.<br />
+<a href="/s/Diary-of-Winnie-Beam/page/communitymembers#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a> is here to-day.<br />
+Mamma had to go to the<br />
+<a href="/s/Diary-of-Winnie-Beam/page/locations#StThomas" onmouseover="showPreview(event)">church</a> &amp; to <a href="/s/Diary-of-Winnie-Beam/page/communitymembers#Sullivan" onmouseover="showPreview(event)">Mrs Sullivan&#39;s</a><br />
+She got some very pretty<br />
+samples of waist goods. I am<br />
+going to get one with pieces like<br />
+honiton braid running through<br />
+it. <a href="/s/Diary-of-Winnie-Beam/page/communitymembers#CarmanElla" onmouseover="showPreview(event)">Ella</a> was in. Poor <a href="/s/Diary-of-Winnie-Beam/page/communitymembers#TuckerThomas" onmouseover="showPreview(event)">Tommy</a><br />
+is very sick with pneumonia.<br />
+They have a debate to-night<br />
+in the church between a<br />
+boy &amp; girl. Last night our<br />
+Society debated against Y.M.C.A<br />
+in their rooms.<br />
+<br />
+------<br />
+<small>1. Gastric or intestinal pain.</small></p>
+</div>
+</div>
