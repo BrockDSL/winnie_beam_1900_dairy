@@ -1,34 +1,39 @@
-Tuesday January 9 1900 
+<div class="diary-pages">
+<div id="1900-01-09">
+<h2><span>January</span><span>&nbsp;</span><span>Tuesday 9</span><span>(9-356)</span><span>1900</span></h2>
 
-Practised in the morning as I have
-to go to school this afternoon.
-Went to school and Annie Gardiner
-& I sat together. Came home with
-the trio Leta, Laura Newman & Nellie
-Lloyd. I went with Nell around Duke
-St. Toronto is getting to be a bad
-place. A Miss Ferguerson was
-sandbagged on Friday night & died,
-then last night a young boy
-was knocked down.
+<p>Practised in the morning as I have<br />
+to go to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> this afternoon.<br />
+Went to school and <a href="/s/ital-iasc-2q90/page/communitymembers/#GardinerAnnie" onmouseover="showPreview(event)">Annie Gardiner</a><br />
+&amp; I sat together. Came home with<br />
+the trio <a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerLeta" onmouseover="showPreview(event)">Leta</a>, <a href="/s/ital-iasc-2q90/page/communitymembers/#NewmanLaura" onmouseover="showPreview(event)"> Laura Newman</a> &amp; <a href="/s/ital-iasc-2q90/page/communitymembers/#LloydNellie" onmouseover="showPreview(event)">Nellie<br />
+Lloyd</a>. I went with <a>Nell</a> around Duke<br />
+St. Toronto is getting to be a bad<br />
+place. A Miss Ferguerson was<br />
+sandbagged on Friday night &amp; died,<br />
+then last night a young boy<br />
+was knocked down.</p>
+</div>
 
+<div id="1900-01-10">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Wednesday 10</span><span>(10-355)</span><span>&nbsp;</span></h2>
 
-Wednesday January 10 
-
-Did not go to school to-day
-Mamma has been lengthening
-my Heather mixture skirt & I wore
-it to-day. Went to Dwyer's after
-Beatrice to go with me to try
-the piano in Wherry's Hall, but
-she & May Henderson went out to
-Nellie Barnes as she has been sick.
-Went & got Nettie to go with
-me. The one piano is a good one
-They are both Nordheimers. Papa
-& mamma went to Coy's
-at night. Papa got a nice
-calendar from the Peters
-Cartridge Co. & to-day at noon
-J.N . Walker the popular druggist was
-married to-day to Miss Lake
+<p>Did not go to school to-day<br />
+Mamma has been lengthening<br />
+my Heather mixture skirt &amp; I wore<br />
+it to-day. Went to Dwyer&#39;s after<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerBeatrice" onmouseover="showPreview(event)">Beatrice</a> to go with me to try<br />
+the piano in Wherry&#39;s Hall, but<br />
+she &amp; <a href="/s/ital-iasc-2q90/page/communitymembers/#HendersonMay" onmouseover="showPreview(event)">May Henderson</a> went out to<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#BarnesNellie" onmouseover="showPreview(event)">Nellie Barnes</a> as she has been sick.<br />
+Went &amp; got <a href="/s/ital-iasc-2q90/page/communitymembers/#Nettie" onmouseover="showPreview(event)">Nettie</a> to go with<br />
+me. The one piano is a good one<br />
+They are both <a href="http://www.pianotech.ca/nordheimer-pianos.htm">Nordheimers</a>. Papa<br />
+&amp; mamma went to <a href="/s/ital-iasc-2q90/page/communitymembers/#CoyMr" onmouseover="showPreview(event)">Coy&#39;s</a><br />
+at night. Papa got a nice<br />
+calendar from the <a href="/s/ital-iasc-2q90/page/locations#PetersCartridgeCo" onmouseover="showPreview(event)"> Peters<br />
+Cartridge Co.</a> &amp; to-day at noon<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#WalkerJames" onmouseover="showPreview(event)">J.N . Walker</a> the popular druggist was<br />
+married to-day to Miss Lake</p>
+</div>
+</div>
