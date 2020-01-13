@@ -1,36 +1,41 @@
-January Wednesday 3 1900
+<div class="diary-pages">
+<div id="1900-01-03">
+<h2><span>January</span><span>&nbsp;</span><span>Wednesday 3</span><span>(3-362)</span><span>1900</span></h2>
 
-Mrs Trusty was here washing
-School started to-day, but I
-was not going this week.
-Mamma went to the church
-and then to Mrs Chatfields
-Took her the church books.
-The Queen Street Baptist Church
-had a service of praise this
-evening. Miss V Chapman is
-organist & Mrs Read-Muir sang
-Mrs George Armstrong has a
-daughter was born on New
-Year's day.
+<p><a href="/s/ital-iasc-2q90/page/communitymembers#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a> was here washing<br />
+<a href="/s/ital-iasc-2q90/page/locations#CollegiateInstitute" onmouseover="showPreview(event)">School</a> started to-day, but I<br />
+was not going this week.<br />
+Mamma went to the <a href="/s/ital-iasc-2q90/page/locations#StThomas" onmouseover="showPreview(event)">church</a><br />
+and then to <a href="/s/ital-iasc-2q90/page/communitymembers#ChatfieldMrs" onmouseover="showPreview(event)">Mrs Chatfields</a><br />
+Took her the church books.<br />
+The <a href="/s/ital-iasc-2q90/page/locations#QueenStBaptistChurch" onmouseover="showPreview(event)">Queen Street Baptist Church</a><br />
+had a service of praise this<br />
+evening. <a href="/s/ital-iasc-2q90/page/communitymembers#Chapman" onmouseover="showPreview(event)">Miss V Chapman</a> is<br />
+organist &amp; Mrs Read-Muir sang<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#ArmstrongGeorge" onmouseover="showPreview(event)">Mrs George Armstrong</a> has a<br />
+daughter was born on New<br />
+Year&#39;s day.</p>
+</div>
 
+<div id="1900-01-04">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Thursday 4</span><span>(4-361)</span><span>&nbsp;</span></h2>
 
-Thursday 4
-
-Went over to Carman's to have
-Ella go with me to Dunn's
-greenhouse. We went about half
-past three. I brought a primrose
-Miss Chaplin was in there.
-Mamma went to Mrs Klotz
-at home Beatrice helped.
-Papa & I went to Sunday School
-entertainment at night. Had
-a very long programme. There
-was a dialogue called "Aunt Ketty's [sic]
-shopping which was good, and
-a shaving scene. Mr Perry gave
-a tableful of prizes away. Beatrice
-came home with us. They had
-a drill of girls & they sang
-"Soldiers of the Queen"
+<p>Went over to Carman&#39;s to have<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers#CarmanElla" onmouseover="showPreview(event)">Ella</a> go with me to <a href="/s/ital-iasc-2q90/page/locations#Dunn" onmouseover="showPreview(event)">Dunn&#39;s<br />
+greenhouse</a>. We went about half<br />
+past three. I brought a primrose<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers#ChaplinMiss" onmouseover="showPreview(event)">Miss Chaplin</a> was in there.<br />
+Mamma went to <a href="/s/ital-iasc-2q90/page/communitymembers#KlotzMarie" onmouseover="showPreview(event)">Mrs Klotz</a><br />
+at home <a href="/s/ital-iasc-2q90/page/communitymembers#DwyerBeatrice" onmouseover="showPreview(event)">Beatrice</a> helped.<br />
+Papa &amp; I went to Sunday School<br />
+entertainment at night. Had<br />
+a very long programme. There<br />
+was a dialogue called <a href="/s/ital-iasc-2q90/page/literature#AuntKitty" onmouseover="showPreview(event)">&quot;Aunt Ketty&#39;s [sic]<br />
+shopping</a> which was good, and<br />
+a shaving scene. <a href="/s/ital-iasc-2q90/page/communitymembers#Perry" onmouseover="showPreview(event)">Mr Perry</a> gave<br />
+a tableful of prizes away. Beatrice<br />
+came home with us. They had<br />
+a drill of girls &amp; they sang<br />
+<a>&quot;Soldiers of the Queen&quot;</a></p>
+</div>
+</div>
