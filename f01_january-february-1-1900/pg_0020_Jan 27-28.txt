@@ -1,35 +1,40 @@
-January Saturday 27 1900
+<div class="diary-pages">
+<div id="1900-01-27">
+<h2><span>January</span><span>&nbsp;</span><span>Saturday 27</span><span>(27-338)</span><span>1900</span></h2>
 
-Took my music lesson. Had
-to go to Eckhardts after a piece
-"Pierrette" by Chaminde Op 41
-About tweleve o'clock two  
-women called with a book
-they were trying to sell, and
-were more bother than their
-worth. Mamma & I went
-uptown. I took Mr Henderson's
-umbrella home. I bought
-three sponge taffy squares as I
-had 3 coppers. Mr Overholt came
-here. Papa went up to meet him
-and they did not get back until 2 o'clock
+<p>Took my music lesson. Had<br />
+to go to <a href="/s/ital-iasc-2q90/page/locations#Eckhardts" onmouseover="showPreview(event)">Eckhardts</a> after a piece<br />
+<a href="/s/ital-iasc-2q90/page/music#Chaminde" onmouseover="showPreview(event)">&quot;Pierrette&quot; by Chaminde Op 41</a><br />
+About tweleve o&#39;clock two &nbsp;<br />
+women called with a book<br />
+they were trying to sell, and<br />
+were more bother than their<br />
+worth. Mamma &amp; I went<br />
+uptown. I took Mr Henderson&#39;s<br />
+umbrella home. I bought<br />
+three sponge taffy squares as I<br />
+had 3 coppers. <a href="/s/Diary-of-Winnie-Beam/page/communitymembers/#OverholtFrank1" onmouseover="showPreview(event)">Mr Overholt</a> came<br />
+here. Papa went up to meet him<br />
+and they did not get back until 2 o&#39;clock</p>
+</div>
 
+<div id="1900-01-28">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Sunday 28</span><span>(28-337)</span><span>&nbsp;</span></h2>
 
-Sunday January 28
-
-Papa & Mr Overhold saw Charlie
-Gould. Did not go to church as
-it was after time when we
-got up from breakfast. About
-12 o'clock Charlie & Mr Dean
-a friend of his came down.
-When they went to catch 2.45
-train Mr Overhold went with
-them. Went to Sunday School
-The lesson was the
-"Temptation of Jesus" Did not
-go at night as mamma
-said she would go to
-sleep as was up so
-late last night.
+<p>Papa &amp; Mr Overhold saw Charlie<br />
+Gould. Did not go to <a href="/s/Diary-of-Winnie-Beam/page/locations/#StThomas" onmouseover="showPreview(event)">church</a> as<br />
+it was after time when we<br />
+got up from breakfast. About<br />
+12 o&#39;clock Charlie &amp; Mr Dean<br />
+a friend of his came down.<br />
+When they went to catch 2.45<br />
+train Mr Overholt went with<br />
+them. Went to Sunday School<br />
+The lesson was the<br />
+&quot;Temptation of Jesus&quot; Did not<br />
+go at night as mamma<br />
+said she would go to<br />
+sleep as was up so<br />
+late last night.</p>
+</div>
+</div>
