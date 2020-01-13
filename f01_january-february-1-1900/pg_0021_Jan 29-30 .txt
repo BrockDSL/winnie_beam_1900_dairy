@@ -1,36 +1,41 @@
-January Monday 29 1900 
+<div class="diary-pages">
+<div id="1900-01-29">
+<h2><span>January</span><span>&nbsp;</span><span>Monday 29</span><span>(29-336)</span><span>1900</span></h2>
 
-Went to school in the morning
-but Miss Cloney had went
-home. I staid [sic] the hour and
-the girls had a high old time
-Called in at Mrs Pay's when I
-went as she wanted to know
-Mrs Notman's day. Mamma is
-working a chrysanthemum
-centerpiece. Mr Bunting came
-home with papa for tea
-and then they went to
-the Opera House to 'A Trip to
-Coontown."
+<p>Went to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in the morning<br />
+but <a href="/s/ital-iasc-2q90/page/communitymembers#CloneyMiss" onmouseover="showPreview(event)">Miss Cloney</a> had went<br />
+home. I staid [sic] the hour and<br />
+the girls had a high old time<br />
+Called in at <a>Mrs Pay&#39;s</a> when I<br />
+went as she wanted to know<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers#Notman" onmouseover="showPreview(event)">Mrs Notman&#39;s</a> day. Mamma is<br />
+working a chrysanthemum<br />
+centerpiece. <a href="/s/ital-iasc-2q90/page/communitymembers#BuntingMr" onmouseover="showPreview(event)">Mr Bunting</a> came<br />
+home with papa for tea<br />
+and then they went to<br />
+the <a href="/s/ital-iasc-2q90/page/locations#GrandOperaHouse" onmouseover="showPreview(event)">Opera House</a> to &#39;<a>A Trip to<br />
+Coontown</a>.&quot;</p>
+</div>
 
+<div id="1900-01-30">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Tuesday 30</span><span>(30-335)</span><span>&nbsp;</span></h2>
 
-Tuesday January 30
-
-They had examination at
-school so I did not have
-to go. Mrs Killmer called on
-mamma in afternoon and
-brought back two books papa
-lent them. I have been
-working some on a doily.
-Jerusha's Dow's Album was
-repeated last night in St.
-Barnabas Church. I got an
-invitation at noon Allie Coy
-is going to have an "At Home"
-Friday afternon from 4 to 6,
-Papa brought some buttercups
-and peppermints. DePachman
-the Russian painist played
-in Toronto last night.
+<p>They had examination at<br />
+school so I did not have<br />
+to go. <a href="/s/ital-iasc-2q90/page/communitymembers#KillmerMrs" onmouseover="showPreview(event)">Mrs Killmer</a> called on<br />
+mamma in afternoon and<br />
+brought back two books papa<br />
+lent them. I have been<br />
+working some on a doily.<br />
+<a href="/s/ital-iasc-2q90/page/literature/#ParsonL" onmouseover="showPreview(event)">Jerusha&#39;s Dow&#39;s Album</a> was<br />
+repeated last night in <a href="/s/ital-iasc-2q90/page/locations#StBarnabasChurch" onmouseover="showPreview(event)">St.<br />
+Barnabas Church</a>. I got an<br />
+invitation at noon <a href="/s/ital-iasc-2q90/page/communitymembers/#CoyAllie" onmouseover="showPreview(event)"> Allie Coy</a><br />
+is going to have an &quot;At Home&quot;<br />
+Friday afternon from 4 to 6,<br />
+Papa brought some buttercups<br />
+and peppermints. <a href="/s/ital-iasc-2q90/page/music#DePachman" onmouseover="showPreview(event)">DePachman</a><br />
+the Russian painist played<br />
+in Toronto last night.</p>
+</div>
+</div>
