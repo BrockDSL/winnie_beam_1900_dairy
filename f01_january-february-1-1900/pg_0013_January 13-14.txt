@@ -1,31 +1,36 @@
-January Saturday 13 1900
+<div class="diary-pages">
+<div id="1900-01-13">
+<h2><span>January</span><span>&nbsp;</span><span>Saturday 13</span><span>(13-352)</span><span>1900</span></h2>
 
-Took my music lesson. Took No
-27. Funeral March in "Songs without
-Words" by Mendelssohn & the 7th Etude
-Czerny's 749. Mr Read heard I did very well
-Thursday. Mrs Camp told him. Went
-uptown in the afternoon to get
-premium trading stamps. They
-stamp ten spaces instead of giving
-stamps. Went down to Miss
-Crawford's. Miss McLaren was
-there. Did not get home until
-nearly six.
+<p>Took my music lesson. Took <a href="/s/ital-iasc-2q90/page/music#Mendelssohn" onmouseover="showPreview(event)">No<br />
+27. Funeral March in &quot;Songs without<br />
+Words&quot; by Mendelssohn</a> &amp; the <a href="/s/ital-iasc-2q90/page/music#CzernyCarl" onmouseover="showPreview(event)">7<sup>th</sup> Etude<br />
+Czerny&#39;s 749</a>. <a href="/s/ital-iasc-2q90/page/communitymembers#ReadAngelo" onmouseover="showPreview(event)">Mr Read</a> heard I did very well<br />
+Thursday. <a href="/s/ital-iasc-2q90/page/communitymembers#CampMrs" onmouseover="showPreview(event)">Mrs Camp</a> told him. Went<br />
+uptown in the afternoon to get<br />
+premium trading stamps. They<br />
+stamp ten spaces instead of giving<br />
+stamps. Went down to <a href="/s/ital-iasc-2q90/page/communitymembers/#CrawfordMiss" onmouseover="showPreview(event)">Miss<br />
+Crawford&#39;s</a>. <a href="/s/ital-iasc-2q90/page/communitymembers/#McLaren" onmouseover="showPreview(event)">Miss McLaren</a> was<br />
+there. Did not get home until<br />
+nearly six.</p>
+</div>
 
+<div id="1900-01-14">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Sunday 14</span><span>(14-351)</span><span>&nbsp;</span></h2>
 
-Sunday January 14
-
-Did not go to church in the morning
-as it is very rainy and sloppy.
-Then in the afternoon did not
-go to Sunday School as it was
-raining harder still. Papa is reading
-"in Tents of Kedar". I have been reading
-the Musicains. There is one very good
-article on "The Development of Technique
-from Bach to Liszt". We did not
-go to church as it was
-rainy again. I wish we did not
-have rainy Sundays. I finished
-"In Tents of Kedar" to-night
+<p>Did not go to <a href="/s/ital-iasc-2q90/page/locations#StThomas" onmouseover="showPreview(event)">church</a> in the morning<br />
+as it is very rainy and sloppy.<br />
+Then in the afternoon did not<br />
+go to Sunday School as it was<br />
+raining harder still. Papa is reading<br />
+&quot;<a href="/s/ital-iasc-2q90/page/literature#Kedar" onmouseover="showPreview(event)">in Tents of Kedar</a>&quot;. I have been reading<br />
+the Musicains. There is one very good<br />
+article on &quot;The Development of Technique<br />
+from Bach to Liszt&quot;. We did not<br />
+go to church as it was<br />
+rainy again. I wish we did not<br />
+have rainy Sundays. I finished<br />
+&quot;In Tents of Kedar&quot; to-night</p>
+</div>
+</div>
