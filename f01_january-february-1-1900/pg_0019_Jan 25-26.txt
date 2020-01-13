@@ -1,37 +1,42 @@
-January Thursday 25 1900
+<div class="diary-pages">
+<div id="1900-01-25">
+<h2><span>January</span><span>&nbsp;</span><span>Thursday 25</span><span>(25-340)</span><span>1900</span></h2>
 
-Went to school in afternoon, the
-Inspector was there, dear man, I
-did not try to answer questions.
-Mr Henderson lent Miss Dougan
-Miss Benson & I his umbrella
-as it was raining hard when
-we came out of school. Ella came
-over and brought "Dolly Dialogues"
-home. She borrowed our rat trap
-At night it snowed and blew
-phew! and I could not go to the
-Musical which I was very sorry
-for as it was Russian night & Miss Mc
-Farlane played. Papa brought some candy.
-  
-  
-Friday January 26
+<p>Went to <a href="/s/ital-iasc-2q90/page/locationss/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in afternoon, the<br />
+Inspector was there, dear man, I<br />
+did not try to answer questions.<br />
+Mr Henderson lent <a href="/s/ital-iasc-2q90/page/communitymembers/#DouganEthel" onmouseover="showPreview(event)">Miss Dougan</a><br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#BensonMiss" onmouseover="showPreview(event)">Miss Benson</a> &amp; I his umbrella<br />
+as it was raining hard when<br />
+we came out of school. <a href="/s/ital-iasc-2q90/page/communitymembers#CarmanElla" onmouseover="showPreview(event)"> Ella</a> came<br />
+over and brought &quot;<a href="/s/ital-iasc-2q90/page/literature/#HopeAnthony" onmouseover="showPreview(event)">Dolly Dialogues</a>&quot;<br />
+home. She borrowed our rat trap<br />
+At night it snowed and blew<br />
+phew! and I could not go to the<br />
+Musical which I was very sorry<br />
+for as it was Russian night &amp; Miss Mc<br />
+Farlane played. Papa brought some candy.</p>
+</div>
 
-We burnt a lamp last night as
-the gasbills are so high. It is very
-nice to burn lamps. Did not go
-to school this morning as it was
-cold & blustry. 100 below zero.
-Mr Carman came over with a
-rat for Pansy to catch it, and
-the naught thing wouldn't as the
-rat bit him on the lip. Mamma
-Mrs Coy and Mattie went to Mrs
-C. Moore's card party in afternoon
-from 3 to 6 o'clock Mrs Odlum
-won first Miss Bate the second
-and Miss Kate Clark the third
-prize. The first was a tea cozey, 2nd
-an orange knife, the third a
-book.
+<div id="1900-01-26">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Friday 26</span><span>(26-339)</span><span>&nbsp;</span></h2>
+
+<p>We burnt a lamp last night as<br />
+the gasbills are so high. It is very<br />
+nice to burn lamps. Did not go<br />
+to school this morning as it was<br />
+cold &amp; blustry. 10<sup style="font-size: x-small;">0</sup> below zero.<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers#CarmanMr" onmouseover="showPreview(event)">Mr Carman</a> came over with a<br />
+rat for <a href="/s/ital-iasc-2q90/page/communitymembers/#Pansy" onmouseover="showPreview(event)">Pansy</a> to catch it, and<br />
+the naught thing wouldn&#39;t as the<br />
+rat bit him on the lip. Mamma<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#CoyMrs" onmouseover="showPreview(event)">Mrs Coy</a> and <a href="/s/ital-iasc-2q90/page/communitymembers/#CoyMattie" onmouseover="showPreview(event)">Mattie</a> went to <a href="/s/Diary-of-Winnie-Beam/page/communitymembers/#MooreCatherine" onmouseover="showPreview(event)">Mrs<br />
+C. Moore&#39;s</a> card party in afternoon<br />
+from 3 to 6 o&#39;clock <a href="/s/ital-iasc-2q90/page/communitymembers/#Odlum" onmouseover="showPreview(event)">Mrs Odlum</a><br />
+won first <a href="/s/ital-iasc-2q90/page/communitymembers#BateEmily" onmouseover="showPreview(event)">Miss Bate</a> the second<br />
+and <a href="/s/ital-iasc-2q90/page/communitymembers#ClarkKate" onmouseover="showPreview(event)">Miss Kate Clark</a> the third<br />
+prize. The first was a tea cozey, 2<sup style="font-size: x-small;">nd</sup><br />
+an orange knife, the third a<br />
+book.</p>
+</div>
+</div>
