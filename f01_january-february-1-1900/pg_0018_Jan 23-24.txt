@@ -1,34 +1,42 @@
-January Tuesday 23 1900 
+<div class="diary-pages">
+<div id="1900-01-23">
+<h2><span>January</span><span>&nbsp;</span><span>Tuesday 23</span><span>(23-342)</span><span>1900</span></h2>
 
-Went to school in the afternoon.
-Then papa mamma & I went
-to the Redpath Concert Co. The
-concert was fine. I never heard
-anything I liked as well. There
-were four singers 1 violinist and
-1 pianist. Mme Meredith soprano
-Miss Clary, contralto. Dr Carl Dufft basso
-Mr Town, Tenor, Miss Von Fursch
-violinist and Miss Koler pianist
-all of them were encored twice
-and Mr Dufft three times. All the
-ladies got a beautiful boquet.
-The first part was L[iza]. Lehmann's "In a Persian Garden".
-  
-  
-Wednesday January 24
+<p>Went to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in the afternoon.<br />
+Then papa mamma &amp; I went<br />
+to the Redpath Concert Co. <a href="http://bmd.stcatharines.library.on.ca/en/3432705/image/3407667">The<br />
+concert</a><small><sup>1</sup></small> was fine. I never heard<br />
+anything I liked as well. There<br />
+were four singers 1 violinist and<br />
+1 pianist. Mme Meredith soprano<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers#ClaryMaryLouise" onmouseover="showPreview(event)">Miss Clary</a>, contralto. Dr Carl Dufft basso<br />
+Mr Town, Tenor, Miss Von Fursch<br />
+violinist and Miss Koler pianist<br />
+all of them were encored twice<br />
+and Mr Dufft three times. All the<br />
+ladies got a beautiful boquet.<br />
+The first part was <a href="/s/ital-iasc-2q90/page/music#LehmanLiza" onmouseover="showPreview(event)">L[iza]. Lehmann&#39;s &quot;In a Persian Garden&quot;</a>.</p>
+</div>
 
-Went to school in the morning.
-Annie Gardiner was not there
-Mrs Dwyer and Beatrice called
-in the afternoon. Beatrice and
-Percy were at the concert but I
-did not see them. Beatrice thought
-it was not worth 75¢ last
-night. Well everybody did not
-think so or they would not
-have encored them as they did.
-Mamma finished her Buttenburg
-cushion. Hellen was coming
-over this afternoon, but she did
-not get here.
+<div id="1900-01-24">
+<h2><small><span>&nbsp;</span><span>&nbsp;</span><span>Wednesday 24</span><span>(24-341)</span><span>&nbsp;</span></small></h2>
+
+<p>Went to school in the morning.<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#GardinerAnnie" onmouseover="showPreview(event)">Annie Gardiner</a> was not there<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerAnna" onmouseover="showPreview(event)">Mrs Dwyer</a> and <a href="/s/ital-iasc-2q90/page/communitymembers/#DwyerBeatrice" onmouseover="showPreview(event)">Beatrice</a> called<br />
+in the afternoon. Beatrice and<br />
+Percy were at the concert but I<br />
+did not see them. Beatrice thought<br />
+it was not worth 75&cent; last<br />
+night. Well everybody did not<br />
+think so or they would not<br />
+have encored them as they did.<br />
+Mamma finished her Buttenburg<br />
+cushion. Hellen was coming<br />
+over this afternoon, but she did<br />
+not get here.<br />
+<br />
+------<br />
+<small>1. See the <a href="http://bmd.stcatharines.library.on.ca/en/486/Exhibit/99993209">Vanderburg Scrapbook</a> for a copy of the complete program.</small></p>
+</div>
+</div>
