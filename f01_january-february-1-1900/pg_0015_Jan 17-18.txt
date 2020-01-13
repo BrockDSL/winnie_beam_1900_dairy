@@ -1,33 +1,38 @@
-January Wednesday 17 1900 
+<div class="diary-pages">
+<div id="1900-01-17">
+<h2><span>January</span><span>&nbsp;</span><span>Wednesday 17</span><span>(17-348)</span><span>1900</span></h2>
 
-Went to school in morning.
-Annie Gardiner is taking drawing
-lessons at Demill College. She
-has to go Monday, Tuesday, &
-Thursday mornings. Mrs Trusty
-was here. The clothes did not dry.
-Mamma went to Church. Mrs Haun
-wanted to know why I had not
-been at the Bible class for 3 Sundays
-Mrs Greenwood & Mabel had
-an "At Home" Mamma
-went. Mrs Coy came home
-with her
+<p>Went to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in morning.<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#GardinerAnnie" onmouseover="showPreview(event)">Annie Gardiner</a> is taking drawing<br />
+lessons at <a href="/s/ital-iasc-2q90/page/locations#DemillCollege" onmouseover="showPreview(event)">Demill College</a>. She<br />
+has to go Monday, Tuesday, &amp;<br />
+Thursday mornings. <a href="/s/ital-iasc-2q90/page/communitymembers#TrustySusan" onmouseover="showPreview(event)">Mrs Trusty</a><br />
+was here. The clothes did not dry.<br />
+Mamma went to Church. <a href="/s/ital-iasc-2q90/page/communitymembers/#Haun" onmouseover="showPreview(event)">Mrs Haun</a><br />
+wanted to know why I had not<br />
+been at the Bible class for 3 Sundays<br />
+<a href="/s/ital-iasc-2q90/page/communitymembers/#GreenwoodMrs" onmouseover="showPreview(event)">Mrs Greenwood</a> &amp; <a href="/s/ital-iasc-2q90/page/communitymembers/#GreenwoodMabel" onmouseover="showPreview(event)">Mabel</a> had<br />
+an &quot;At Home&quot; Mamma<br />
+went. <a href="/s/ital-iasc-2q90/page/communitymembers/#CoyMrs" onmouseover="showPreview(event)">Mrs Coy</a> came home<br />
+with her</p>
+</div>
 
+<div id="1900-01-18">
+<h2><span>&nbsp;</span><span>&nbsp;</span><span>Thursday 18</span><span>(18-347)</span><span>&nbsp;</span></h2>
 
-Thursday January 18
-
-Practiced in the morning. Got
-ready to go to school, but it
-was raining. Waited for a
-while then went uptown.
-Got some Glycerine & Celery King
-at Walker's & Abbs. Then to the
-library. Got "The Choir Invisible",
-by James Lane Allen. Went to
-Eckhardt's & paid for my musical
-history. Got the papers. Mr
-Bunting was in the office
-Mamma went to Mrs Notman's
-at Home. Mrs Pay and Mrs
-Dudley were with her.
+<p>Practiced in the morning. Got<br />
+ready to go to school, but it<br />
+was raining. Waited for a<br />
+while then went uptown.<br />
+Got some Glycerine &amp; Celery King<br />
+at <a href="/s/ital-iasc-2q90/page/locations#WalkerAndAbbs" onmouseover="showPreview(event)">Walker&#39;s &amp; Abbs</a>. Then to the<br />
+<a href="/s/ital-iasc-2q90/page/locations#Lees" onmouseover="showPreview(event)">library</a>. Got <a href="/s/ital-iasc-2q90/page/literature#AllenJames" onmouseover="showPreview(event)">&quot;The Choir Invisible&quot;,<br />
+by James Lane Allen</a>. Went to<br />
+<a href="/s/ital-iasc-2q90/page/locations#Eckhardts" onmouseover="showPreview(event)">Eckhardt&#39;s</a> &amp; paid for my musical<br />
+history. Got the papers. <a href="/s/ital-iasc-2q90/page/communitymembers#BuntingMr" onmouseover="showPreview(event)">Mr<br />
+Bunting</a> was in the office<br />
+Mamma went to <a href="/s/ital-iasc-2q90/page/communitymembers/#Notman" onmouseover="showPreview(event)">Mrs Notman&#39;s</a><br />
+at Home. Mrs Pay and <a href="/s/ital-iasc-2q90/page/communitymembers/#Dudley" onmouseover="showPreview(event)">Mrs<br />
+Dudley</a> were with her.</p>
+</div>
+</div>
