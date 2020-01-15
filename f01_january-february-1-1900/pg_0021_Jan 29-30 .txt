@@ -13,7 +13,7 @@ working a chrysanthemum<br />
 centerpiece. <a href="/s/ital-iasc-2q90/page/communitymembers#BuntingMr" onmouseover="showPreview(event)">Mr Bunting</a> came<br />
 home with papa for tea<br />
 and then they went to<br />
-the <a href="/s/ital-iasc-2q90/page/locations#GrandOperaHouse" onmouseover="showPreview(event)">Opera House</a> to &#39;<a>A Trip to<br />
+the <a href="/s/ital-iasc-2q90/page/locations#GrandOperaHouse" onmouseover="showPreview(event)">Opera House</a> to &#39;<a href="https://www.researchgate.net/publication/236716799_Forgotten_Manuscripts_A_Trip_to_Coontow">A Trip to<br />
 Coontown</a>.&quot;</p>
 </div>
 
