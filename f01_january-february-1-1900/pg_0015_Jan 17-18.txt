@@ -24,7 +24,7 @@ with her</p>
 ready to go to school, but it<br />
 was raining. Waited for a<br />
 while then went uptown.<br />
-Got some Glycerine &amp; Celery King<br />
+Got some Glycerine &amp; Celery King<small><sup>1</sup></small><br />
 at <a href="/s/ital-iasc-2q90/page/locations#WalkerAndAbbs" onmouseover="showPreview(event)">Walker&#39;s &amp; Abbs</a>. Then to the<br />
 <a href="/s/ital-iasc-2q90/page/locations#Lees" onmouseover="showPreview(event)">library</a>. Got <a href="/s/ital-iasc-2q90/page/literature#AllenJames" onmouseover="showPreview(event)">&quot;The Choir Invisible&quot;,<br />
 by James Lane Allen</a>. Went to<br />
@@ -34,5 +34,7 @@ Bunting</a> was in the office<br />
 Mamma went to <a href="/s/ital-iasc-2q90/page/communitymembers/#Notman" onmouseover="showPreview(event)">Mrs Notman&#39;s</a><br />
 at Home. Mrs Pay and <a href="/s/ital-iasc-2q90/page/communitymembers/#Dudley" onmouseover="showPreview(event)">Mrs<br />
 Dudley</a> were with her.</p>
+<p>------< br/>
+<small>1. The product was a laxative.</small></p>
 </div>
 </div>
