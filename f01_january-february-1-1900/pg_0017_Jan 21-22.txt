@@ -21,7 +21,7 @@ night.</p>
 <h2><span>&nbsp;</span><span>&nbsp;</span><span>Monday 22</span><span>(22-343)</span><span>&nbsp;</span></h2>
 
 <p>Did not got to <a href="/s/ital-iasc-2q90/page/locations/#CollegiateInstitute" onmouseover="showPreview(event)">school</a> in the morning&nbsp;<br />
-as I took &quot;Celery King&quot;. Mamma went&nbsp;<br />
+as I took &quot;Celery King&quot;<small><sup>1</sup></small>. Mamma went&nbsp;<br />
 out collecting for ladies aid in the&nbsp;<br />
 afternoon, and uptown after some&nbsp;<br />
 silk for doily of chrysanthemums. I<br />
@@ -33,5 +33,7 @@ coming over. The entertainmnet in&nbsp;<br />
 <a href="/s/ital-iasc-2q90/page/locations/#KnoxChurch" onmouseover="showPreview(event)">Knox Church</a> was repeated to-night.<br />
 <a href="/s/ital-iasc-2q90/page/communitymembers/#OLoughlin" onmouseover="showPreview(event)">Mr O&#39;Loughlin&#39;s</a> mother died&nbsp;<br />
 yesterday.</p>
+<p>------<br />
+<small>1. The product is a laxative.</small>
 </div>
 </div>
